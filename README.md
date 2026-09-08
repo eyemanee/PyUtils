@@ -1,4 +1,4 @@
-# ⚡ PyUtils
+# PyUtils
 
 ### The all-in-one developer utility toolkit for Python.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## ✨ Overview
+## Overview
 
 **PyUtils** is a lightweight, all-in-one command-line toolkit designed for developers, students and power users.
 
@@ -74,7 +74,7 @@ PyUtils uses a simple terminal-based interface designed to stay fast and lightwe
 
 ```text
 ╭────────────────────────────────────────╮
-│  ⚡ PyUtils                            │
+│   PyUtils                            │
 │  All-in-one Developer Toolkit          │
 ╰────────────────────────────────────────╯
 
@@ -123,10 +123,7 @@ On Windows:
 ```bash
 py PyUtils.py
 ```
-
-That's it.
-
-**No `pip install`. No virtual environment. No configuration.**
+**
 
 ---
 
@@ -192,20 +189,6 @@ RuntimeError: lost sys.stdin
 
 ---
 
-## 🔒 Privacy
-
-PyUtils is **local-first**.
-
-Your data stays on your computer.
-
-* No accounts
-* No telemetry
-* No API keys
-* No cloud processing
-* No external services required
-
-Passwords, files, JSON and other inputs are processed locally.
-
 ---
 
 ## ⚡ Performance
@@ -244,33 +227,10 @@ The entire application currently lives in **one Python file**.
 
 ---
 
-## 🗺️ Roadmap
+## Release notes
 
-### v1.1
-
-* [ ] UUID generator
-* [ ] Regex tester
-* [ ] Text statistics
-* [ ] Random data generator
-* [ ] Lorem Ipsum generator
-
-### v1.2
-
-* [ ] JWT decoder
-* [ ] Unix permissions calculator
-* [ ] IP calculator
-* [ ] Port checker
-* [ ] More encoding formats
-
-### v2.0
-
-* [ ] Improved terminal interface
-* [ ] Configuration system
-* [ ] Plugin architecture
-* [ ] Export results to files
-* [ ] Interactive command mode
-* [ ] Cross-platform improvements
-
+### v1.0.1
+Fix : Password Generator returns 'null' in certain cases
 ---
 
 ## 🤝 Contributing
@@ -284,7 +244,7 @@ Click **Fork** at the top of the GitHub repository.
 ### 2. Clone your fork
 
 ```bash
-git clone https://github.com/yourusername/PyUtils.git
+git clone https://github.com/eyemanee/PyUtils.git
 cd PyUtils
 ```
 
@@ -365,14 +325,4 @@ If PyUtils is useful to you:
 
 It helps the project grow and motivates future development.
 
----
-
-<div align="center">
-
-### ⚡ PyUtils
-
-**One file. Zero dependencies. Twelve tools.**
-
-Made with 🐍 Python
-
-</div>
+Made with Python
