@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
 [![Dependencies](https://img.shields.io/badge/Dependencies-0-success?style=for-the-badge)](#-installation)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)](#-installation)
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](#)
+[![Version](https://img.shields.io/badge/Version-1.0.1-blue?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](#-license)
 
 > **12 useful developer tools. One file. Zero external dependencies.**
